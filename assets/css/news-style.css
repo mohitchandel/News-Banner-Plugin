@@ -1,0 +1,22 @@
+/* nw-box*/
+.nw-box {
+    z-index: 1; 
+    width: 100%; 
+    overflow: auto;
+}
+  
+/* News Content */
+.nw-news-content {
+    margin: auto;
+    padding: 20px;
+    width: 80%;
+    text-align:center;
+}
+
+/* News Close Button */
+.nw-box-close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
